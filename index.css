@@ -1,0 +1,23 @@
+.body{
+    padding:15px;
+    background-color:grey;
+    border-radius: 15px;
+    width:300px !important;
+}
+.rowPad
+{
+    padding:5px; 
+}
+.inputcss{
+   font-size:12pt !important;
+   text-align:right !important;
+}
+.resultcss{
+    font-size:15pt !important;
+    text-align:right !important;
+    font-weight:bold;
+    color:grey !important;
+}
+.heading{
+    color:#ffff;
+}
